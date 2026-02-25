@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Remix: CourtSide AI - NBA Bet Analyst",
+  "description": "An intelligent NBA betting companion that uses Gemini AI to analyze news, stats, and matchups to generate data-driven betting insights.",
+  "requestFramePermissions": []
+}
